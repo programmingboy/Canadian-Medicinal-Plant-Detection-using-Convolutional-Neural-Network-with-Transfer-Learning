@@ -2,7 +2,7 @@
 """
 Created on Tue Mar  3 16:09:22 2020
 
-@author: Shaon
+@author: akshay
 """
 #import tensorflow as tf
 #from tensorflow.keras.applications.inception_v3 import InceptionV3
